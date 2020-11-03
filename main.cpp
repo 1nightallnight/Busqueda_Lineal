@@ -13,8 +13,6 @@ int main()
     Computadora c03("Laptop HP Pavilion Gaming", "162D3LA", "Windows 10", "265 GB SSD");
     Computadora c04("DELL L A T I T U D E 2", "5401", "Windows 10", "6144MB RAM");
 
-    //arreglo << c01 << c02 << c03 << c03 << c04 << c02 << c02;
-
     arreglo << c01 << c02 << c03 << c04 <<c02 << c02;
     Computadora c05("Acer Aspire", "NX.M0RAL.016", "WINDOWS 7", "2 GB");
 
